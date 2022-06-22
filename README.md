@@ -2,5 +2,5 @@
 
 Hola
 Gracias por visitarme!
-Auí encontraras mis trabajos en Desarrollo Web y mi CV.
+Aquí encontraras mis trabajos en Desarrollo Web y mi CV.
 Saludos.
